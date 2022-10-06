@@ -19,4 +19,4 @@ for x in temp:
             char = x[count]
             countOfNum += 1
 
-print(countOfNum)
+print(countOfNum);;
